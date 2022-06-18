@@ -1,0 +1,69 @@
+Stake holders
+	Sapeint
+	TechOne
+
+Engagement 1st phase
+	Current : NA
+	fixed cost and time
+		Initiation : Consultation
+			plan : Know as is status (as is study)
+			participants : Client partners, Project Manager, Tech Lead.
+			Outcome : Current status in terms of goal vs achieved
+			technologies in use , quality of work, time spent to achieve, Input from stakeholders in terms of ideas / opinions
+	
+	2nd Phase : Inform Duration, planned result, Team, Project owners, coordination plan
+	
+Plan
+		Modules : how many. if any.?
+		planned incriments of releases
+		Agile Project Delivery
+		Scrum with 3 weeks sprint with quarterly release train
+		Milestones. ? feature 1 Tech live, Biz live, ...
+	Activities : To track progress
+				daily standup and ceremonies,
+			Events to plan the backlog
+				Prioritization and grooming
+			Review with business during Review sessions
+		DOD : when incriments constitute to deliver agreed goal for a feature / release 
+		DOR : Status where a planned work with in a period is ready for further review or process
+			
+	Quality Measurement
+		Improve quality of your scope definition (story) (SMART)
+			Specific 
+			Measurable
+			Acceptable / achievable
+			relevant
+			Time-bound
+		Acceptance criteria, Define DOR and DOD
+		Metrics
+			Story Cycle time
+			Defect Density
+			Correct and Complete towards defined goal
+	
+	Digital transformation technologies
+		Agile Scrum Framework
+		
+		Collaboration : Offcie 365 (confluence, sharepoint), planner
+		Communication : Teams, google suite, zoom
+		Project Management : Jira, Trello
+		Clound storage : google drive , Drop Box
+		DevOps Integration tools : CI/CD
+						Jenkin - git, git hub, maven
+						dockers, kubernetes
+		Automation tools : Ansible
+		
+Risks : Resource, Skill, Scalability and Integration challenges
+		Change in scope 
+		
+Business context Diagram : Can't derive one with given information
+
+key Topis / metrics / Tools for reportig delivery management
+	JIRA dashboards
+	Agile charts
+	Excel graphs
+	
+		
+	
+		
+
+		
